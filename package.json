@@ -1,0 +1,23 @@
+{
+  "name": "ajimi-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-u-s-c-l-e/ajimi-2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-u-s-c-l-e/ajimi-2/issues"
+  },
+  "homepage": "https://github.com/m-u-s-c-l-e/ajimi-2#readme"
+}
